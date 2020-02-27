@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
                     hideButtons();
                 } else if (mPathIndex == 2 && mStoryIndex == 3) {
                     mStoryTextView.setText(R.string.T5_End);
+
                     hideButtons();
                 }
 
